@@ -23,6 +23,7 @@ Each folder corresponds to a major topic (loosely aligned with chapters in the b
 ```
 
 combinatorics-problem-sets/
+├── 00_Prerequisite/
 ├── 01_Addition_or_Multiplication/
 │   ├── problem_01.ipynb
 │   ├── problem_02.ipynb
