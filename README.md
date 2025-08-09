@@ -12,7 +12,7 @@ It serves as a personal study log and problem set archive as I work through core
 All problems and theory are taken from:
 
 **Miklós Bóna, *A Walk Through Combinatorics: An Introduction to Enumeration and Graph Theory***
-🔗 [Link to book (Springer)](https://link.springer.com/book/10.1007/978-3-030-56864-7)
+[Link to book (Springer)](https://link.springer.com/book/10.1007/978-3-030-56864-7)
 
 ---
 
@@ -78,7 +78,11 @@ The goal is not speed, but **true mastery** — as part of my Project10X foundat
 
 ---
 
-## 📜 License
+## License
 
 This repository is for **educational and personal study use only**.
 All original problems and content are copyright of **Miklós Bóna**.
+
+---
+
+_Created and Maintained by RM Villa._
