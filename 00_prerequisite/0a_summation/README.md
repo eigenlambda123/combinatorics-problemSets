@@ -21,9 +21,8 @@ Meaning: Start at $i = a$, plug into $f(i)$, and add all values up to $i = b$.
 * **$b$** — ending index
 * **$f(i)$** — summand (expression being summed)
 
----
 
-### **Example**
+#### **Example**
 
 $$
 \sum_{i=1}^{4} (2i + 1)
