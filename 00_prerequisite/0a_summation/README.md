@@ -1,10 +1,10 @@
 # **Summation (Σ)**
 
-### **Definition:**
+**Definition:**
 
 Summation notation is a compact way to represent the **sum of a sequence of terms**.
 
-### **General Form:**
+**General Form:**
 
 $$
 \sum_{i=a}^{b} f(i)
@@ -14,7 +14,7 @@ Meaning: Start at $i = a$, plug into $f(i)$, and add all values up to $i = b$.
 
 ---
 
-## **Notation Parts**
+### **Notation Parts**
 
 * **Σ** — summation symbol
 * **$i = a$** — starting index
@@ -23,7 +23,7 @@ Meaning: Start at $i = a$, plug into $f(i)$, and add all values up to $i = b$.
 
 ---
 
-## **Example**
+### **Example**
 
 $$
 \sum_{i=1}^{4} (2i + 1)
@@ -36,29 +36,23 @@ $$
 
 ---
 
-## **Common Formulas**
+### **Common Formulas**
 
 1. Sum of first $n$ integers:
 
-   $$
-   \sum_{i=1}^n i = \frac{n(n+1)}{2}
-   $$
+   $$\sum_{i=1}^n i = \frac{n(n+1)}{2}$$
 
 2. Sum of first $n$ squares:
 
-   $$
-   \sum_{i=1}^n i^2 = \frac{n(n+1)(2n+1)}{6}
-   $$
+   $$\sum_{i=1}^n i^2 = \frac{n(n+1)(2n+1)}{6}$$
 
 3. Sum of first $n$ cubes:
 
-   $$
-   \sum_{i=1}^n i^3 = \left[\frac{n(n+1)}{2}\right]^2
-   $$
+   $$\sum_{i=1}^n i^3 = \left[\frac{n(n+1)}{2}\right]^2$$
 
 ---
 
-## **Tips**
+### **Tips**
 
 * Simplify before expanding.
 * Use formulas for large $n$.
