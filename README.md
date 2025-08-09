@@ -18,20 +18,23 @@ All problems and theory are taken from:
 
 ## Structure & Organization
 
-Each folder corresponds to a major topic (loosely aligned with chapters in the book), and within it are subfiles for notes, problems, and solutions.
+Each folder corresponds to a major topic (loosely aligned with chapters in the book), and within it are subfiles for notes, quick_check, problems, and solutions.
 
 ```
 combinatorics-problem-sets/
-├── 00_Prerequisite/
-├── 01_Basic_Methods/
-│   ├── pigeon_hole_principle
-│   ├── mathematical_induction
+├── 00_prerequisite/
+├── 01_basic_methods/
+│   ├── 1a_pigeon_hole_principle
+│   │   ├── problem_sets
+│   │   ├── quick_check.ipynb
+│   │   ├── README.md
+│   ├── 1b_mathematical_induction
 │   ├── ...
-├── 02_Enumerative_Combinatorics/
+├── 02_enumerative_Combinatorics/
 │   ├── ...
-├── 03_Graph_Theory/
+├── 03_graph_Theory/
 │   ├── ...
-├── 04_Horizons/
+├── 04_horizons/
 └── README.md
 ```
 
